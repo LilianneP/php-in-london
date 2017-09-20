@@ -123,7 +123,17 @@ WC1A 1DG
 
 
 ## L
+### Lendinvest,
+2 Fitzroy Place, 8 Mortimer Street
+Fitzrovia,
+London.
+W1T 3JJ
 
+* https://lendinvest.com | [careers](https://www.lendinvest.com/about/careers/)
+* https://twitter.com/LendInvestLife
+
+PHP Tech:React, Redux consuming RESTful APIs,  and on the backend, PHP7, Symfony3, Node.JS and MySQL. We use AWS, Docker and Kubernetes for infrastructure.
+Company Activity: LendInvest is the world’s largest online marketplace for property lending and investing.
 
 ## M
 
